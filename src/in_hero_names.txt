@@ -1,0 +1,10 @@
+Gandalf
+Frodo
+Aragorn
+Legolas
+Gimli
+Harry
+Hermione
+Ron
+Snape
+Dumbledore
