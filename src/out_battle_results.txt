@@ -1,0 +1,144 @@
+
+=== NEW BATTLE ===
+Army Stats Before Battle:
+Red Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Dumbledore      | Nuggle          |         56 |        130
+Frodo           | Bahamut         |        123 |        123
+Dumbledore      | Ceffyl          |         82 |         68
+Dumbledore      | Nuggle          |        131 |         63
+Total Health: 384
+
+Blue Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Voldemort       | Macara          |        134 |         80
+Lucius          | Ceffyl          |         77 |        153
+Smaug           | Macara          |        102 |        110
+Hades           | Bahamut         |        140 |        111
+Total Health: 454
+
+
+--- BATTLE LOG ---
+
+Battle 1: Dumbledore vs Voldemort
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Dumbledore the Nuggle |     74 | Red Team   | Voldemort the Macara |               6 | Blue Team 
+Voldemort the Macara |    180 | Blue Team  | Dumbledore the Nuggle |               0 | Red Team  
+Winner: Voldemort the Macara
+
+Battle 2: Frodo vs Lucius
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Frodo the Bahamut    |     79 | Red Team   | Lucius the Ceffyl    |              74 | Blue Team 
+Lucius the Ceffyl    |     60 | Blue Team  | Frodo the Bahamut    |              63 | Red Team  
+Frodo the Bahamut    |     65 | Red Team   | Lucius the Ceffyl    |               9 | Blue Team 
+Lucius the Ceffyl    |     38 | Blue Team  | Frodo the Bahamut    |              25 | Red Team  
+Frodo the Bahamut    |     40 | Red Team   | Lucius the Ceffyl    |               0 | Blue Team 
+Winner: Frodo the Bahamut
+
+Battle 3: Dumbledore vs Smaug
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Smaug the Macara     |     28 | Blue Team  | Dumbledore the Ceffyl |              40 | Red Team  
+Dumbledore the Ceffyl |     45 | Red Team   | Smaug the Macara     |              65 | Blue Team 
+Smaug the Macara     |     96 | Blue Team  | Dumbledore the Ceffyl |               0 | Red Team  
+Winner: Smaug the Macara
+
+Battle 4: Dumbledore vs Hades
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Hades the Bahamut    |     33 | Blue Team  | Dumbledore the Nuggle |              30 | Red Team  
+Dumbledore the Nuggle |     91 | Red Team   | Hades the Bahamut    |              20 | Blue Team 
+Hades the Bahamut    |     69 | Blue Team  | Dumbledore the Nuggle |               0 | Red Team  
+Winner: Hades the Bahamut
+
+Army Stats After Battle:
+Red Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Dumbledore      | Nuggle          |         56 |          0
+Frodo           | Bahamut         |        123 |         25
+Dumbledore      | Ceffyl          |         82 |          0
+Dumbledore      | Nuggle          |        131 |          0
+Total Health: 25
+
+Blue Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Voldemort       | Macara          |        134 |          6
+Lucius          | Ceffyl          |         77 |          0
+Smaug           | Macara          |        102 |         65
+Hades           | Bahamut         |        140 |         20
+Total Health: 91
+
+
+
+=== FINAL RESULTS ===
+Red Team total health: 25
+Blue Team total health: 91
+Blue Team wins the war!
+
+=== NEW BATTLE ===
+Army Stats Before Battle:
+Red Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Snape           | Nuggle          |         56 |         80
+Aragorn         | Macara          |         52 |        149
+Total Health: 229
+
+Blue Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Gollum          | Bahamut         |         63 |        131
+Gollum          | Macara          |         59 |         78
+Total Health: 209
+
+
+--- BATTLE LOG ---
+
+Battle 1: Snape vs Gollum
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Snape the Nuggle     |     28 | Red Team   | Gollum the Bahamut   |             103 | Blue Team 
+Gollum the Bahamut   |     38 | Blue Team  | Snape the Nuggle     |              42 | Red Team  
+Snape the Nuggle     |     40 | Red Team   | Gollum the Bahamut   |              63 | Blue Team 
+Gollum the Bahamut   |     34 | Blue Team  | Snape the Nuggle     |               8 | Red Team  
+Snape the Nuggle     |      1 | Red Team   | Gollum the Bahamut   |              62 | Blue Team 
+Gollum the Bahamut   |     37 | Blue Team  | Snape the Nuggle     |               0 | Red Team  
+Winner: Gollum the Bahamut
+
+Battle 2: Aragorn vs Gollum
+Attacker             | Damage | Army       | Defender             | Defender Health | Army      
+----------------------------------------------------------------------------------------
+Aragorn the Macara   |     42 | Red Team   | Gollum the Macara    |              36 | Blue Team 
+Gollum the Macara    |     34 | Blue Team  | Aragorn the Macara   |             115 | Red Team  
+Aragorn the Macara   |     32 | Red Team   | Gollum the Macara    |               4 | Blue Team 
+Gollum the Macara    |    102 | Blue Team  | Aragorn the Macara   |              13 | Red Team  
+Aragorn the Macara   |     78 | Red Team   | Gollum the Macara    |               0 | Blue Team 
+Winner: Aragorn the Macara
+
+Army Stats After Battle:
+Red Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Snape           | Nuggle          |         56 |          0
+Aragorn         | Macara          |         52 |         13
+Total Health: 13
+
+Blue Team Stats
+Name            | Type            |   Strength |     Health
+----------------------------------------------------------------
+Gollum          | Bahamut         |         63 |         62
+Gollum          | Macara          |         59 |          0
+Total Health: 62
+
+
+
+=== FINAL RESULTS ===
+Red Team total health: 13
+Blue Team total health: 62
+Blue Team wins the war!
